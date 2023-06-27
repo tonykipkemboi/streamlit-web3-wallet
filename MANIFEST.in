@@ -1,0 +1,3 @@
+recursive-include src/streamlit_web3_wallet/frontend *
+include README.md
+include LICENSE
